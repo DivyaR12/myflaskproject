@@ -1,0 +1,114 @@
+.a{
+    margin-left: 70px;
+    margin-right: 70px;    
+}
+
+.text1{
+    padding: 20px;
+    margin-left:60px;
+    margin-right:60px;
+
+    color: white;       
+    border-style: outset;
+    border-width: 3px; 
+    background-color: #000051; 
+    text-align: center;
+    border-radius:25px;
+}
+
+
+ footer{
+           padding: 10px ;
+         background-color:#1a237e;
+           color: #9d9d9d;
+           width: 100%;
+
+   }
+.sec1{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 80px;
+    margin-top: 80px;
+    align-content: center;
+    background-color: azure;
+}
+
+
+.sec2 , .sec3 {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: azure;
+}
+
+.bd{
+    padding-bottom: 10%;
+}
+.sec4 {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 80px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: azure;
+}
+
+#head{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    padding-left: 10px;
+   font-size: 30px;
+ 
+}
+#p1{
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.container1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#p2{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+#p3{
+     margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.sec5{
+     margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: azure;
+}
+
+#body{
+
+    background-image: linear-gradient(#bbdefb, #e3f2fd,#e1f5fe);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
